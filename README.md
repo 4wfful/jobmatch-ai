@@ -10,7 +10,7 @@ The project combines generative AI with deterministic Python logic to make the a
 
 Live demo:
 
-[Open JobMatch AI](YOUR_STREAMLIT_URL)
+[Open JobMatch AI](https://jobmatch-ai-h7ixizlmaqfeurh4wr9w4v.streamlit.app/)
 
 ## 🎯 Problem
 
